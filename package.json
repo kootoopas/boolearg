@@ -1,12 +1,16 @@
 {
   "name": "boolearg",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "Returns true if process.argv contains given string(s).",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "scripts": {},
+  "keywords": [
+    "argv",
+    "arg",
+    "argument",
+    "flag",
+    "boolean"
+  ],
+  "author": "kootoopas",
+  "license": "MIT"
 }
