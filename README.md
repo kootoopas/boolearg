@@ -7,15 +7,15 @@ Examples
 --------
 
 ```javascript
-// cmd --debug
+// $ example --debug
 boolearg('--debug')
 // => true
 
-// cmd --lol
+// $ example --lol
 boolearg(['-d', '--debug', '--debug=404'])
 // => false
 
-// cmd --lol
+// $ example --lol
 boolearg(123)
 // => TypeError
 ```
