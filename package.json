@@ -1,7 +1,7 @@
 {
   "name": "boolearg",
   "version": "0.1.0",
-  "description": "Returns true if process.argv contains given string(s).",
+  "description": "Returns `true` if `process.argv` contains given string(s).",
   "main": "index.js",
   "scripts": {},
   "keywords": [
@@ -12,5 +12,6 @@
     "boolean"
   ],
   "author": "kootoopas",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "kootoopas/boolearg"
 }
