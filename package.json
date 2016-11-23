@@ -1,6 +1,6 @@
 {
   "name": "boolearg",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Returns true if `process.argv` contains given string(s).",
   "main": "index.js",
   "scripts": {},
